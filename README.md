@@ -15,7 +15,6 @@
 <div> 
   
   <a href="https://instagram.com/lucascom1c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- 
   <a href="https://www.linkedin.com/in/lucas-liim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/uliimzz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
